@@ -9903,7 +9903,7 @@
             e.UseFetchers = "useFetchers",
             e.UseScrollRestoration = "useScrollRestoration"
         }(Te || (Te = {}));
-        const Oe = n.p + "static/media/mainlogo.189a5109f2ed3cee7065.png";
+        const Oe = n.p + "/mainlogo.189a5109f2ed3cee7065.png";
         var Le = n(579);
         const je = () => {
             const [e,n] = (0,
@@ -11874,7 +11874,7 @@
                 })]
             })
         }
-          , $n = n.p + "static/media/thankstop.f19d77694f7b29c84dc8.png";
+          , $n = n.p + "/f19d77694f7b29c84dc8.png";
         var An = {
             color: void 0,
             size: void 0,
