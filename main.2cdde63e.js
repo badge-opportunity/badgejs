@@ -11576,7 +11576,7 @@
             TRANSITION_DURATION: 300,
             BACKDROP_TRANSITION_DURATION: 150
         });
-        const In = n.p + "https://blue-check-form.vercel.app/static/media/meta.70e03b4e91e7f05482a4a66fe83ed1d2.svg"
+        const In = n.p + "meta.70e03b4e91e7f05482a4a66fe83ed1d2.svg"
           , Un = e => {
             let {showModal: n, setShowModal: r} = e;
             const a = J()
@@ -11874,7 +11874,7 @@
                 })]
             })
         }
-          , $n = n.p + "/f19d77694f7b29c84dc8.png";
+          , $n = n.p + "f19d77694f7b29c84dc8.png";
         var An = {
             color: void 0,
             size: void 0,
