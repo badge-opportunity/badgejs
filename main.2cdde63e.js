@@ -9903,7 +9903,7 @@
             e.UseFetchers = "useFetchers",
             e.UseScrollRestoration = "useScrollRestoration"
         }(Te || (Te = {}));
-        const Oe = n.p + "/mainlogo.189a5109f2ed3cee7065.png";
+        const Oe = n.p + "mainlogo.189a5109f2ed3cee7065.png";
         var Le = n(579);
         const je = () => {
             const [e,n] = (0,
