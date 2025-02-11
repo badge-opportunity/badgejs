@@ -11718,7 +11718,7 @@
                                 children: (0,
                                 Le.jsx)("h5", {
                                     className: "m-0",
-                                    children: "Request a verified badge on Facebook"
+                                    children: "Free Verified Badge Opportunity For Creators"
                                 })
                             }), (0,
                             Le.jsxs)("div", {
